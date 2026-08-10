@@ -37,6 +37,8 @@ public class Main {
 }
 
 
+OUTPUT : 
+
 Enter an integer: 12345
 Number of digits = 5
 
