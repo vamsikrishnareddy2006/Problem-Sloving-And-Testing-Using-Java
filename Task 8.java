@@ -35,6 +35,7 @@ public class Main {
     }
 }
 
+OUTPUT : 
 
 Enter a number: 121
 121 is a Palindrome Number.
