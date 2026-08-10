@@ -36,6 +36,7 @@ public class Main {
 }
 
 
+OUTPUT :
 
 Enter the value of N: 7
 The 7th Fibonacci number is: 13
